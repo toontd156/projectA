@@ -1,6 +1,6 @@
 # Mobile Application Project
 
-# final project Flutter In MFU Second-Year
+# Final project Flutter In MFU Second-Year
 
 # By G.10 
 # 6431501107 Mr. Watcharin Sopanri 
