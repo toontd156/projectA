@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:ass1/StudentPage/main_student_page.dart';
-import 'package:ass1/service/Show_page_after_search.dart';
-import 'package:ass1/service/history_page_from_search.dart';
+import 'package:projectA/StudentPage/main_student_page.dart';
+import 'package:projectA/service/Show_page_after_search.dart';
+import 'package:projectA/service/history_page_from_search.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

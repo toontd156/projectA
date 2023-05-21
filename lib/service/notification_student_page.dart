@@ -1,4 +1,4 @@
-import 'package:ass1/service/Aceept_reject_service.dart';
+import 'package:projectA/service/Aceept_reject_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

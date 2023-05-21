@@ -1,6 +1,6 @@
-import 'package:ass1/mainPage/login_main_page.dart';
-import 'package:ass1/models/rive_asset.dart';
-import 'package:ass1/service/threeline_all_service.dart';
+import 'package:projectA/mainPage/login_main_page.dart';
+import 'package:projectA/models/rive_asset.dart';
+import 'package:projectA/service/threeline_all_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

@@ -1,6 +1,6 @@
 {
-    "name": "ass1",
-    "short_name": "ass1",
+    "name": "projectA",
+    "short_name": "projectA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

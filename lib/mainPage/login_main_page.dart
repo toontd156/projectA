@@ -1,7 +1,7 @@
-import 'package:ass1/adminPage/main_admin_page.dart';
-import 'package:ass1/mainPage/register_page.dart';
-import 'package:ass1/techerpage/main_techer_page.dart';
-import 'package:ass1/StudentPage/main_student_page.dart';
+import 'package:projectA/adminPage/main_admin_page.dart';
+import 'package:projectA/mainPage/register_page.dart';
+import 'package:projectA/techerpage/main_techer_page.dart';
+import 'package:projectA/StudentPage/main_student_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

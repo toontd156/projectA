@@ -1,4 +1,4 @@
-import 'package:ass1/mainPage/login_main_page.dart';
+import 'package:projectA/mainPage/login_main_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';

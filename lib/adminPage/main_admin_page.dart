@@ -1,12 +1,12 @@
 import 'dart:async';
 
-import 'package:ass1/service/Button_service.dart';
-import 'package:ass1/service/List_history_service.dart';
-import 'package:ass1/service/add_code_from_admin.dart';
-import 'package:ass1/service/add_image_from_admin.dart';
-import 'package:ass1/service/historyalldata_service.dart';
-import 'package:ass1/service/threeline_service.dart';
-import 'package:ass1/service/notification_teacher_page.dart';
+import 'package:projectA/service/Button_service.dart';
+import 'package:projectA/service/List_history_service.dart';
+import 'package:projectA/service/add_code_from_admin.dart';
+import 'package:projectA/service/add_image_from_admin.dart';
+import 'package:projectA/service/historyalldata_service.dart';
+import 'package:projectA/service/threeline_service.dart';
+import 'package:projectA/service/notification_teacher_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

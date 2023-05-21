@@ -1,4 +1,4 @@
-import 'package:ass1/service/History_page_from_page.dart';
+import 'package:projectA/service/History_page_from_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';

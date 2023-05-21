@@ -54,7 +54,8 @@ class DefaultFirebaseOptions {
     appId: '1:897217641932:android:ba188c4e4b699546e97169',
     messagingSenderId: '897217641932',
     projectId: 'appproject-e8710',
-    databaseURL: 'https://appproject-e8710-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://appproject-e8710-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'appproject-e8710.appspot.com',
   );
 
@@ -63,9 +64,11 @@ class DefaultFirebaseOptions {
     appId: '1:897217641932:ios:826fe22e90fddf87e97169',
     messagingSenderId: '897217641932',
     projectId: 'appproject-e8710',
-    databaseURL: 'https://appproject-e8710-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://appproject-e8710-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'appproject-e8710.appspot.com',
-    iosClientId: '897217641932-iede7nmvcjd0e6gt581uodpapf2ma939.apps.googleusercontent.com',
-    iosBundleId: 'com.example.ass1',
+    iosClientId:
+        '897217641932-iede7nmvcjd0e6gt581uodpapf2ma939.apps.googleusercontent.com',
+    iosBundleId: 'com.example.projectA',
   );
 }

@@ -1,4 +1,4 @@
-import 'package:ass1/mainPage/screen_page.dart';
+import 'package:projectA/mainPage/screen_page.dart';
 import 'package:flutter/material.dart';
 
 import 'package:firebase_core/firebase_core.dart';
