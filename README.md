@@ -1,4 +1,4 @@
-# projectA
+# Mobile Application Project
 
 # final project Flutter In MFU Second-Year
 
